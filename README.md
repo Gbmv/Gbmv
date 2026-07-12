@@ -11,7 +11,7 @@ I am interested in **backend development, full-stack applications and software a
 - 🌱 Currently improving my knowledge of Java, Spring Boot and REST APIs
 - 🤝 Experienced in academic and collaborative software projects
 - 📍 Based in Montréal, Québec
-- 🔎 Open to internships and junior software development opportunities
+- 🔎 Open to internships and new opportunities
 
 ## 🛠️ Technologies
 
